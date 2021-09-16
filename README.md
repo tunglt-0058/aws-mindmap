@@ -3,16 +3,14 @@ The mindmaps for AWS services to get AWS Certificates easier. For Vietnamese, yo
 
 Those images is designed with [xmind tool](http://www.xmind.net)
 
-![alt text](https://raw.githubusercontent.com/tunglt-0058/aws-mindmap/master/images/AWS%20Network.png)
+![alt text](https://github.com/tunglt-0058/aws-mindmap/blob/master/images/AWS%20Network.png)
 
-![alt text](https://raw.githubusercontent.com/tunglt-0058/aws-mindmap/master/images/AWS%20Storage.png)
+![alt text](https://github.com/tunglt-0058/aws-mindmap/blob/master/images/AWS%20Storage.png)
 
-![alt text](https://raw.githubusercontent.com/tunglt-0058/aws-mindmap/master/images/AWS%20Compute.png)
+![alt text](https://github.com/tunglt-0058/aws-mindmap/blob/master/images/AWS%20Compute.png)
 
-![alt text](https://raw.githubusercontent.com/tunglt-0058/aws-mindmap/master/images/AWS%20Database.png)
+![alt text](https://github.com/tunglt-0058/aws-mindmap/blob/master/images/AWS%20Database.png)
 
-![AWSManagementTools AWSManagementTools](https://raw.githubusercontent.com/tunglt-0058/aws-mindmap/master/images/AWS%20Management%20Tools.png)
+![AWSManagementTools AWSManagementTools](https://github.com/tunglt-0058/aws-mindmap/blob/master/images/AWS%20Management%20Tools.png)
 
-![AWSApplication AWSApplication](https://raw.githubusercontent.com/tunglt-0058/aws-mindmap/master/images/AWS%20Applications.png)
-
-![alt text](https://raw.githubusercontent.com/tunglt-0058/aws-mindmap/master/images/AWS%20SAA.png)
+![AWSApplication AWSApplication](https://github.com/tunglt-0058/aws-mindmap/blob/master/images/AWS%20Applications.png)
